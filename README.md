@@ -23,4 +23,4 @@ I'm also Collaborative and Problem Solving.
 ## Connect with Me
 - LinkedIn: 🌐 https://www.linkedin.com/in/lesego-ramatsui/
 - Personal Website/Blog: 🌐 www.ramatsui.co.za
-- Email: leseog@ramatsui.co.za
+- Email: lesego@ramatsui.co.za
