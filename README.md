@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Moabi
+# Hi there! 👋 I'm Moabi (Lesego Ramatsui)
 
 ## About Me
 I'm a software developer with a strong background in problem-solving, with experience in both private and public sectors. Throughout my career, I've tackled a variety of projects, demonstrating proficiency in multiple programming languages.
