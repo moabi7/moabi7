@@ -9,15 +9,16 @@ I'm a software developer with a strong background in problem-solving, with exper
   - Showcasing adaptability and effective collaboration
 
 ## Skills
-- Programming Languages: JavaScript and TypeScript
--                        Visual Basic
--                        C#
--                        C++
--                        Orcle PL/SQL
--                        PHP
--                                             
-- Problem Solving
-- Collaboration
+- Programming Languages:
+- JavaScript and TypeScript
+- Visual Basic
+- C#
+- C++
+- Orcle PL/SQL
+- PHP
+                                           
+-- Problem Solving
+-- Collaboration
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/lesego-ramatsui/
