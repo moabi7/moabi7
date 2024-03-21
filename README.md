@@ -17,8 +17,7 @@ I'm a software developer with a strong background in problem-solving, with exper
 - Orcle PL/SQL
 - PHP
                                            
--- Problem Solving
--- Collaboration
+A also Collaborative and Problem Solving
 
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/lesego-ramatsui/
