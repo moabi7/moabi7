@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Moabi
 
 ## About Me
 I'm a software developer with a strong background in problem-solving, with experience in both private and public sectors. Throughout my career, I've tackled a variety of projects, demonstrating proficiency in multiple programming languages.
@@ -9,11 +9,17 @@ I'm a software developer with a strong background in problem-solving, with exper
   - Showcasing adaptability and effective collaboration
 
 ## Skills
-- Programming Languages: [List languages here]
+- Programming Languages: JavaScript and TypeScript
+-                        Visual Basic
+-                        C#
+-                        C++
+-                        Orcle PL/SQL
+-                        PHP
+-                                             
 - Problem Solving
 - Collaboration
 
 ## Connect with Me
-- LinkedIn: [Your LinkedIn Profile URL]
-- Personal Website/Blog: [Your Website/Blog URL]
-- Email: [Your Email Address]
+- LinkedIn: https://www.linkedin.com/in/lesego-ramatsui/
+- Personal Website/Blog: www.ramatsui.co.za
+- Email: leseog@ramatsui.co.za
